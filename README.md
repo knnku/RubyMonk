@@ -1,5 +1,6 @@
-# My Ruby Monk excercise files
+# Ruby Monk
 
 
+## Ruby Monk: Primer
 
-Ruby Monk: Primers
+A collection of all my excercise files for Ruby Monk: Primer are located here.
